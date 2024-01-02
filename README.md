@@ -9,7 +9,6 @@ MyStack is a simple Java implementation of a stack data structure.
 - [Methods](#methods)
 - [Examples](#examples)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
